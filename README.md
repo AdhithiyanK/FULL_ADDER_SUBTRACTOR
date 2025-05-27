@@ -58,7 +58,9 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: MOhamed Mustafa Hussain RegisterNumber:212224240091*/
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+## Developed by: Adhithiyan k
+## RegisterNumber:212222230006
 1.FULL ADDAR
 module ex4(a,b,cin,sum,carry);
 input a,b,cin;
